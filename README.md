@@ -1,19 +1,23 @@
-Flight Price Prediction
-Overview
-This project builds a machine learning model to predict flight ticket prices based on factors like airline, route, departure time, and demand trends. It helps travelers and agencies optimize pricing strategies by providing more accurate fare estimates.
+# Flight Price Prediction
 
-Features
-Data preprocessing, handling missing values, and feature engineering
-Exploratory data analysis to identify pricing trends
-Regression models for flight price prediction
-Model evaluation and optimization for better accuracy
-Visualization of factors affecting ticket prices
-Technologies Used
-Python (Jupyter Notebook)
-Pandas, NumPy for data processing
-Matplotlib, Seaborn for visualization
-Scikit-learn for machine learning models
-Applications
-Helps travelers plan cost-effective bookings
-Assists travel agencies in dynamic pricing strategies
-Enhances airline revenue management through data-driven pricing
+## Overview  
+This project develops a machine learning model to predict flight ticket prices based on key factors such as airline, route, departure time, and demand trends. The goal is to help travelers and agencies optimize pricing strategies through accurate fare estimates.
+
+## Features  
+- **Data Preprocessing** – Handling missing values, removing outliers, and feature engineering.  
+- **Exploratory Data Analysis (EDA)** – Identifying pricing trends and key factors affecting flight prices.  
+- **Machine Learning Models** – Implementing regression algorithms for price prediction.  
+- **Model Evaluation** – Optimizing model performance using metrics like RMSE.  
+- **Visualization** – Graphical representation of trends affecting ticket prices.  
+
+## Technologies Used  
+- **Programming Language** – Python  
+- **Libraries** – Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn  
+- **Development Environment** – Jupyter Notebook  
+
+## Applications  
+- **Travel Planning** – Helps users book flights at the best possible price.  
+- **Dynamic Pricing** – Assists travel agencies in setting competitive prices.  
+- **Revenue Management** – Supports airlines in optimizing fare structures.  
+
+
